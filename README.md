@@ -1,6 +1,6 @@
 #algo
 
->위 algo에서는 프로그래머스 입문 문제풀이 내용을 정리했습니다.
+## 위 algo에서는 프로그래머스 입문 문제풀이 내용을 정리했습니다.
 >
 >[프로그래머스] https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc
 
